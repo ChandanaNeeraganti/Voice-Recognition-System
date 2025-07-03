@@ -1,5 +1,3 @@
-Certainly! Here's a tailored **README.md** for your Voice Recognition System project:
-
 
 # Voice Recognition System
 
